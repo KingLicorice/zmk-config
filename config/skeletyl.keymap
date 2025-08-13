@@ -38,7 +38,7 @@
         Base {
             label = "Base";
             bindings = <
-    &kp Q  &kp Q          &kp E         &kp R         &kp T        &kp Y      &kp U          &kp I          &kp O       &kp P
+    &kp Q  &kp W          &kp E         &kp R         &kp T        &kp Y      &kp U          &kp I          &kp O       &kp P
     &kp A  &mt LALT S     &mt LCTRL D   &mt LSHFT F   &kp G        &kp H      &mt RSHFT J    &mt RCTRL K    &mt RALT L  &kp SEMI
     &kp Z  &kp X          &kp C         &kp V         &kp B        &kp N      &kp M          &kp COMMA      &kp DOT     &kp FSLH
                           &kp ESC       &kp TAB       &lt 1 DEL    &lt 2 RET  &kp SPACE      &kp BSPC
