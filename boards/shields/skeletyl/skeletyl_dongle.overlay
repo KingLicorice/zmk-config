@@ -1,4 +1,4 @@
-#include "charybdis.dtsi"
+#include "skeletyl.dtsi"
 
 / {
     chosen {
