@@ -47,7 +47,7 @@
         };
 
         Lower {
-            label = "Lower";
+            label = "Numpad";
             bindings = <
     &kp N1    &kp N2     &kp N3      &kp N4     &kp N5      &kp N6     &kp N7          &kp N8          &kp N9            &kp N0 
     &kp LGUI  &kp LALT   &kp LCTRL   &kp LSHFT  &none       &kp LEFT   &mt RSHFT DOWN  &mt RCTRL UP    &mt RALT RIGHT    &kp RGUI
@@ -57,7 +57,7 @@
         };
 
         Raise {
-            label = "Raise";
+            label = "Symbols";
             bindings = <
     &kp AMPS       &kp LBKT    &kp LBRC   &kp LPAR     &kp PLUS    &kp EQUAL   &kp RPAR    &kp RBRC  &kp RBKT  &kp HASH
     &kp TILDE      &kp DLLR    &kp EXCL   &kp AT       &kp MINUS   &kp STAR    &kp PRCNT   &kp CARET &kp PIPE  &kp BSLH
@@ -67,7 +67,7 @@
         };
 
         MEDIA {
-            label = "MEDIA";
+            label = "Media";
             bindings = <
     &kp F1       &kp F2      &kp F3      &kp F     &kp F5        &kp F6          &kp F7      &kp F8       &kp F9     &kp F10
     &kp CAPS     &kp LALT    &kp LCTRL   &kp LSHFT &kp C_VOL_DN  &kp C_VOL_UP    &kp RSHFT   &kp RCTRL    &kp RALT   &kp PSCRN
